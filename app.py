@@ -124,3 +124,8 @@ if st.button("Risiko berechnen", type="primary"):
             st.error("Datei 'progression_forest_model.pkl' fehlt!")
         except Exception as e:
             st.error(f"Fehler bei Progression: {e}")
+
+
+# im terminal ausführen:
+ # pip install streamlit scikit-survival lifelines pandas matplotlib
+ # streamlit run app.py
