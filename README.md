@@ -1,7 +1,11 @@
 # Neurology AI: Disease Prediction Dashboard
 A survival analysis tool designed to predict relapse risks and disease progression in neurology patients (e.g., Multiple Sclerosis). Developed in collaboration with CHUM (Centre hospitalier de l'Université de Montréal).
 
+![Hasta Veri Girişi Ekranı](Bild1.png)
 
+<br>
+
+![Risk ve Sağkalım Analizi Grafikleri](Bild2.png)
 
 # Key Features
 **Interactive UI:** Input clinical parameters (Age, EDSS, Symptoms).
